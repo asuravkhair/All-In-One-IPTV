@@ -2,7 +2,7 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # 01:00 ICT hàng ngày
+    - cron: "0 * * * *"   # 01:00 ICT hàng ngày
   workflow_dispatch:
   push:
     paths:
