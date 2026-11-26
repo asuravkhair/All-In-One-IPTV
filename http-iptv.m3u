@@ -100,7 +100,7 @@ https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob1348695669
 #EXTINF:-1 tvg-id="hue" tvg-logo="https://i.imgur.com/bVWyWC7.png" group-title="Địa phương",Huế
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 tvg-id="danang1" tvg-logo="https://i.postimg.cc/8jwBQ42q/dnrt1.png" group-title="Địa phương",Đà Nẵng 1
-http://d3006k9ptxe2oq.cloudfront.net/aws-dp/danangtv/live/danangtv_720p/chunks.m3u8
+https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
 #EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.postimg.cc/870Rs5Pm/dnrt2.png" group-title="Địa phương",Đà Nẵng 2
 http://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
 #EXTINF:-1 tvg-id="quangngai" tvg-logo="https://i.postimg.cc/pdnCmw7y/QNg-TV1.png" group-title="Địa phương",Quảng Ngãi 1
@@ -122,9 +122,9 @@ http://luuchieu.truyenhinhso.vn/media/live/5609ACBAE41E5281B3F67282/index.m3u8
 #EXTINF:-1 tvg-id="tayninh1" tvg-logo="https://i.imgur.com/HFm3hbC.png" group-title="Địa phương",Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" tvg-logo="https://i.postimg.cc/HJN6GzyV/DN1.png" group-title="Địa phương",Đồng Nai 1
-http://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv1live/source.m3u8
+https://luuchieu.truyenhinhso.vn/media/live/6910E4E4CB9096DAFF1E917C/index.m3u8
 #EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://i.postimg.cc/Mf75Q8r8/DN2.png" group-title="Địa phương",Đồng Nai 2
-http://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv2live/source.m3u8
+https://luuchieu.truyenhinhso.vn/media/live/12935D096941E2BA0ABCCF41/index.m3u8
 #EXTINF:-1 tvg-id="dongthap1" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Địa phương",Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="Địa phương",Đồng Tháp 2
